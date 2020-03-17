@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "296511406804",
+    "firebase_url": "https://seollap2020.firebaseio.com",
+    "project_id": "seollap2020",
+    "storage_bucket": "seollap2020.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:296511406804:android:fa24671b9541f47d02f141",
+        "android_client_info": {
+          "package_name": "com.example.seollap2020"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "296511406804-9hqn63p7o42nh2v1pmg4qanm67ehjcds.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.seollap2020",
+            "certificate_hash": "a25bd4a6bef297766ded60a90903114925069410"
+          }
+        },
+        {
+          "client_id": "296511406804-7el3hnok0qljnscj7kpmqp73vf25td03.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDQQVJdQDtwnxICC7xMm60L0ZP7O-Kea7E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "296511406804-7el3hnok0qljnscj7kpmqp73vf25td03.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
